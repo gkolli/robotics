@@ -4,3 +4,6 @@
 
 The mobile robot is able to perform three tasks: line following, wall following, and parallel parking. A neat way to get into autonomous vehicle development :)
 
+https://github.com/gkolli/robotics/blob/master/robot.PNG
+
+!["the robot!"](https://github.com/gkolli/robotics/blob/master/robot.PNG?raw=true "Mobile Robot - Naren Kolli")
