@@ -6,4 +6,4 @@ The mobile robot is able to perform three tasks: line following, wall following,
 
 https://github.com/gkolli/robotics/blob/master/robot.PNG
 
-![the robot!](https://github.com/gkolli/robotics/blob/master/robot.PNG?raw=true "Mobile Robot - Naren Kolli")
+[![robot.png](https://i.postimg.cc/XqmSJQ7S/robot.png)](https://postimg.cc/zHCP2wg0)
